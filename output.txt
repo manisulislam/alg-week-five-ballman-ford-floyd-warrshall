@@ -1,0 +1,16 @@
+Nodes1 0
+Nodes2 5
+Nodes3 2147483647
+Nodes4 2147483647
+Nodes1 0
+Nodes2 5
+Nodes3 7
+Nodes4 2147483647
+Nodes1 0
+Nodes2 5
+Nodes3 7
+Nodes4 5
+Nodes1 0
+Nodes2 5
+Nodes3 7
+Nodes4 5
